@@ -6,4 +6,4 @@ Notes, guidelines, best practices for Java, Kotlin, Android development
 
 POO, functional paradigms and principles as well
 
-[Notes](https://github.com/ivanph1017/software_engineering_topics/blob/master/main_overlay.pdf)
+[Notes](https://github.com/ivanph1017/software_engineering_topics/raw/master/main_overlay.pdf)
